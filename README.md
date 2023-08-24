@@ -15,3 +15,8 @@ spring.datasource.url=jdbc:postgresql://IP:PORT/your_db_name
 spring.datasource.username=your_db_username
 
 spring.datasource.password=your_db_password
+
+# Swagger Test #
+
+http://localhost:8080/swagger-ui-custom.html
+
